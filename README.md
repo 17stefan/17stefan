@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Stefan, a robotics engineering student based in Cluj-Napoca, Romania.
+I'm Stefan, a robotics student at UTCN in Cluj-Napoca.
 
-I specialize in systems integration, I enjoy navigating the technical intersection of different disciplines to develop functional, end-to-end solutions.
+
 
 My main tech stack is MATLAB/Simulink, C++, AWS (IoT Core, Lambda, DynamoDB), Python, SolidWorks, CATIA, AutoCAD, and Arduino.
 
